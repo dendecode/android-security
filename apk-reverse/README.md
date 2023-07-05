@@ -21,6 +21,8 @@ The APK Signing Script has been tested on the following environment:
 - macOS Ventura 13.4
 - Android SDK 29.0.2
 - Python 3.11.4
+- Apktool v2.7.0
+- Android 11 device
 
 ## Usage
 
