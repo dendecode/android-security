@@ -1,4 +1,4 @@
-# APK Signing Script
+# APK Decompiling & Signing Script
 
 This script allows you to decompile an APK file, modify it, and then sign it using the Android SDK tools.
 
