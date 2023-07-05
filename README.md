@@ -1,10 +1,10 @@
-# Android Cyber Security colletion
+# Android Cyber Security Colletion
 
 Welcome to the Android Cyber Security Repository! This repository is dedicated to providing valuable resources, tools, and information related to Android application security and cyber security best practices for Android developers, security researchers, and enthusiasts.
 
 ## Directory structure
 
-- APK REVERSE: This script allows you to decompile an APK file, modify it, and then sign it using the Android SDK tools.
+- apk-reverse: This script allows you to decompile an APK file, modify it, and then sign it using the Android SDK tools.
 
 ## Contributing
 
